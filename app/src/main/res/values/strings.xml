@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Integrity</string>
+
+    <string name="login_text">Login Page</string>
+    <string name="username_text">User Name</string>
+    <string name="password_text">Password</string>
+    <string name="button_login_text">Login</string>
+    <string name="user_prefrences">Prefrences</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
